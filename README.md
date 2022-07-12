@@ -1,4 +1,4 @@
-# Python Calc (com funções gráficas relacionadas a Física)
+# Python Calc (com funções gráficas relacionadas à Física)
 
 Esta calculadora foi desenvolvida como parte do projeto final da disciplina de Introdução à Programação.
 Suas primeiras versões foram desenvolvidas em 2017.2 no Laboratório de Informática da UFRPE, por mim
